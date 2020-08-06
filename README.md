@@ -2,4 +2,4 @@
 keyboard typing
 
 - Download file 
-- start to learn HOME_ROW
+- Start to learn HOME_ROW
